@@ -4,7 +4,7 @@
 <h3 align="center"><u>Hello 👋, I am Aniruddha,</u></h3>
 - 👨‍🎓 3rd year CSE Student @ VIT Chennai
 <p></p>
-- 💻	Currently exploring GO 
+- 💻	Currently exploring node.js 
 </p>
 - 📚 Ready to collaborate on Web-Dev and Algorithmic projects
 
