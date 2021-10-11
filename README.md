@@ -8,7 +8,6 @@
 </p>
 - 📚 Ready to collaborate on Web-Dev and Algorithmic projects
 
-https://img.shields.io/badge/-rakshit087@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&
 <h3 ><u>Connect with me:</u></h3><p>
   <a href="mailto:aniruddhadhumal1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/ alt="LinkedIn-logo"></a> 
   <a href="https://www.linkedin.com/in/aniruddha-dhumal-974a4519b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/ alt="LinkedIn-logo"></a>                       <a href="https://www.hackerrank.com/aniruddhadhumal1"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/ alt="HackerRank-logo">                        </a>
